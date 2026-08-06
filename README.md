@@ -121,7 +121,7 @@ to prevent duplicate recipients within the same campaign.
 ## 1 Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/email-campaign-api.git
+git clone https://github.com/v-elangovan/email-campaign-api.git
 
 cd email-campaign-api
 ```
